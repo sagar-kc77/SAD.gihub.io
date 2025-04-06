@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       alert(`Logged in as ${username}`);
-      window.location.href = "index.html"; // Redirect to dashboard
+      window.location.href = "home.html"; // Redirect to dashboard
     }
   });
 });
